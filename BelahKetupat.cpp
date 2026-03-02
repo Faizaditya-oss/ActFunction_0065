@@ -21,3 +21,7 @@ void output() {
     cout << "Luas belah ketupat: " << hitungLuas(d1, d2) << endl;
 }
 
+int main() {
+    input();
+    output();
+}
