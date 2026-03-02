@@ -17,3 +17,7 @@ float hitungLuas (float d1, float d2){
 }
 
 
+void output() {
+    cout << "Luas belah ketupat: " << hitungLuas(d1, d2) << endl;
+}
+
